@@ -1,1 +1,4 @@
-class CartItem {}
+class CartItem {
+  int? id;
+  int? count;
+}
